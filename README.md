@@ -22,5 +22,5 @@ I like to do volunteer work.
 
 Would you like to find me?
 
-[![Blog Badge](https://img.shields.io/badge/Blog-ProvadeConceito-black)](https://provadeconceito.wordpress.com)
+[![Blog Badge](https://img.shields.io/badge/Blog-ProvadeConceito-black)](http://provadeconceito.wordpress.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)](https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)
